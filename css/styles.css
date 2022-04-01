@@ -45,7 +45,7 @@ body {
   height: 600px;
   background-color: #2f303a;
 }
-.design-item {
+.design-title {
   width: 696px;
   height: 120px;
   color: #ffffff;
@@ -54,7 +54,7 @@ body {
   text-align: center;
 }
 
-.button-item {
+.button-name {
   width: 200px;
   height: 50px;
   background-color: #2196f3;
@@ -64,7 +64,7 @@ body {
   cursor: pointer;
 }
 
-.button-item:focus {
+.button-name:focus {
   color: #ffffff;
 }
 
